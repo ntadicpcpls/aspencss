@@ -1,0 +1,22 @@
+.titleScrollerHeader {
+background-color: transparent;
+padding: 2px;
+color: transparent;
+font-size: 12px;
+font-weight: bold;
+height: 20px;
+}
+
+.jcarousel-control-prev, .jcarousel-control-next {
+    position: absolute;
+    top: 0;
+    width: 30px;
+    height: 100px;
+    text-align: center;
+    background: #fff;
+    color: #4dacde;
+    text-decoration: none;
+    text-shadow: 0 0 1px #000;
+    font: 24px/100px Arial, sans-serif;
+    box-shadow: 0 0 4px #f0efe7;
+}
