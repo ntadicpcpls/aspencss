@@ -9610,7 +9610,7 @@ a.browse-thumbnail-sorted.active {
   }
 }
 .titleScrollerHeader {
-  background: transparent;
+  background: transparent none no-repeat scroll 0 0;
   padding: 2px;
   color: white;
   font-size: 12px;
